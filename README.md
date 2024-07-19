@@ -4,6 +4,13 @@
 
 This project is an admin dashboard for a social media application, built using Next.js and React. It features pages for managing users and posts, complete with pagination and KPI metrics.
 
+## Run the Development Server
+
+To start the development server, use:
+
+```bash
+npm run dev
+
 ## Features
 
 - **Home Page**:
@@ -25,9 +32,4 @@ This project is an admin dashboard for a social media application, built using N
   - A basic login form with email and password fields
   - Accepts any credentials
 
-## Run the Development Server
-
-To start the development server, use:
-
-```bash
-npm run dev
+ 
