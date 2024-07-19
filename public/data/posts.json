@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "caption": "Good morning",
+    "mediaUrl": "https://abc.jpg",
+    "createdAt": "2024-07-17T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "caption": "XYZ",
+    "mediaUrl": "https://xyz.jpg",
+    "createdAt": "2024-07-19T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "caption": "Good Evening",
+    "mediaUrl": "https://abc.jpg",
+    "createdAt": "2024-07-18T14:00:00Z"
+  },
+  {
+    "id": 4,
+    "caption": "Lovely Sunset",
+    "mediaUrl": "https://example.com/sunset.jpg",
+    "createdAt": "2024-07-19T18:00:00Z"
+  },
+  {
+    "id": 5,
+    "caption": "At the Beach",
+    "mediaUrl": "https://example.com/beach.jpg",
+    "createdAt": "2024-07-18T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "caption": "Delicious Food",
+    "mediaUrl": "https://example.com/food.jpg",
+    "createdAt": "2024-07-19T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "caption": "Morning Coffee",
+    "mediaUrl": "https://example.com/coffee.jpg",
+    "createdAt": "2024-07-20T07:00:00Z"  
+  },
+  {
+    "id": 8,
+    "caption": "Road Trip",
+    "mediaUrl": "https://example.com/roadtrip.jpg",
+    "createdAt": "2024-07-16T15:00:00Z"
+  },
+  {
+    "id": 9,
+    "caption": "Mountain Hike",
+    "mediaUrl": "https://example.com/mountain.jpg",
+    "createdAt": "2024-07-19T20:00:00Z"
+  },
+  {
+    "id": 10,
+    "caption": "City Lights",
+    "mediaUrl": "https://example.com/city.jpg",
+    "createdAt": "2024-07-20T09:00:00Z"   
+  }
+]
