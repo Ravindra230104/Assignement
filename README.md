@@ -2,18 +2,7 @@
 
 ## Overview
 
-This project is an admin dashboard for a social media application, built using Next.js and React. It features pages for managing users and posts, complete with pagination and KPI metrics.
-
-## Run the Development Server
-
-To start the development server, use:
-
-```bash
-npm run dev
----
-
-
-
+This project is an admin dashboard for a social media application, built using Next.js and React. It provides an intuitive interface for managing users and posts, featuring pagination and Key Performance Indicators (KPIs) for quick insights.
 
 ## Features
 
@@ -34,6 +23,31 @@ npm run dev
 
 - **Login Page**:
   - A basic login form with email and password fields
-  - Accepts any credentials
+  - Accepts any credentials for demonstration purposes
 
- 
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/admin-dashboard.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd admin-dashboard
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+## Running the Development Server
+
+To start the development server, use:
+
+```bash
+npm run dev
