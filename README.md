@@ -9,8 +9,9 @@ This project is an admin dashboard for a social media application, built using N
 To start the development server, use:
 
 ```bash
-npm run dev
-```bash
+npm run dev```
+
+
 
 ## Features
 
